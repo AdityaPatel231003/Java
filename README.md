@@ -10,4 +10,8 @@ then it is called method else it is called function.
 
 PATTERN--> we use for and while loop to print various pattern.
 
-SEARCHING-->
+SEARCHING-->A searching algorithm is a step-by-step procedure <br>
+used to locate a specific element within a data structure, such as an array or a list.<br>
+Searching algorithms play a crucial role in programming, as they enable efficient data retrieval and manipulation.
+
+PROGRAMS-->
