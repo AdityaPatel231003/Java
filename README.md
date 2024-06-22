@@ -14,4 +14,4 @@ SEARCHING-->A searching algorithm is a step-by-step procedure <br>
 used to locate a specific element within a data structure, such as an array or a list.<br>
 Searching algorithms play a crucial role in programming, as they enable efficient data retrieval and manipulation.
 
-PROGRAMS-->
+PROGRAMS-->a set of instructions that you give to a computer so that it will do a particular task is a program.
