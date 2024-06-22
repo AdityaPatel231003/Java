@@ -7,3 +7,7 @@ After creation, its length is fixed.
 
 METHODS--> if a function is part of an instance of a class i.e. (Object) <br>
 then it is called method else it is called function.
+
+PATTERN--> we use for and while loop to print various pattern.
+
+SEARCHING-->
