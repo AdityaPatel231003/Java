@@ -15,3 +15,5 @@ used to locate a specific element within a data structure, such as an array or a
 Searching algorithms play a crucial role in programming, as they enable efficient data retrieval and manipulation.
 
 PROGRAMS-->a set of instructions that you give to a computer so that it will do a particular task is a program.
+
+SORTING-->The process of arranging data elements in a specific order, such as ascending or descending, based on a set of criteria. 
