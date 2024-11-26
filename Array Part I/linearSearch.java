@@ -1,0 +1,16 @@
+public class linearSearch{
+    public static int linear(int arr[],int key){
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]==key)
+                return i;
+        }
+        return -1;
+    }
+    public static void main(String[] args) {
+        
+       int arr[]={1,72,65,4,8,2,98,0,6,43};
+        int key=6097;
+        System.out.println(linear(arr,key));
+    }
+
+}
