@@ -23,4 +23,7 @@ SORTING-->The process of arranging data elements in a specific order, such as as
             <br> Example:- 1) To store marks of different subject of 50 Students
                            2)  3D Image Processing and 4D video processing
 
+STRINGS=>An object that represents a number of character values is called String. <br>
+         They are immutable can be mutable by StringBuilder and StringBuffer
+
 
