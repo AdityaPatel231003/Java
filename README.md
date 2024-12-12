@@ -27,3 +27,6 @@ STRINGS=>An object that represents a number of character values is called String
          They are immutable can be mutable by StringBuilder and StringBuffer
 
 
+OOPS --> Object-oriented programming aims to implement real-world entities like  Encapsulations, inheritance, Abstraction polymorphism in programming.
+
+
