@@ -29,4 +29,6 @@ STRINGS=>An object that represents a number of character values is called String
 
 OOPS --> Object-oriented programming aims to implement real-world entities like  Encapsulations, inheritance, Abstraction polymorphism in programming.
 
+RECURSION --> Recursion is method to solve computational problem by dividing the problem and the solution of the problem is depend on the solution of smaller instances of the same problem.
+
 
