@@ -31,4 +31,6 @@ OOPS --> Object-oriented programming aims to implement real-world entities like 
 
 RECURSION --> Recursion is method to solve computational problem by dividing the problem and the solution of the problem is depend on the solution of smaller instances of the same problem.
 
+Divide and Conquer --> Merge Sort and Quick Sort 
+
 
