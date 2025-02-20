@@ -33,4 +33,7 @@ RECURSION --> Recursion is method to solve computational problem by dividing the
 
 Divide and Conquer --> Merge Sort and Quick Sort 
 
+Backtracking --> It involves finding a solution incrementally by trying different options and undoing them if they lead to a dead end.
+                 types - 1)Decision 2) optimization 3)Enumeration
+
 
