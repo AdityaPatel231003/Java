@@ -45,6 +45,13 @@ ArrayList--> Linear data structure and java collection framework.
    | -------------              | ------------- | ------------- |
 
 LINKED_LIST--> Linear data structure and in which memory is dynamic.Contains node which is originally the object. Two parts of node:- data and next(reference variable).
+STACK--> Stack is a linear data structure that follows LIFO (Last In First Out) or FILO (First In Last Out).
+                        | Operation  | Time and Space Complexity |
+| ------------- | ------------- |
+| push() | O(1)  |
+| pop()  |O(1)  |
+| peek() | O(1)  |
+| isEmpty()  |O(1)  |
                
                 
         
