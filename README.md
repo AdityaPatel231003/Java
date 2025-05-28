@@ -77,7 +77,7 @@
 **Greedy Algorithm:** <p> Locally optimium choices at each stage  and hope to achieve a global optimum.<br>
             <br> 1) Used for Optimization <br> 2) No fixed rule <br> 3) Sorting first <br> 
             Pros:- Simple and easy ,Good Time Complexity <br>
-            Disadvantage:- lots of time global optimum is not achieved  
+            Disadvantage:- lots of time global optimum is not achieved. 
 </p>
             
             
