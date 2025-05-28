@@ -71,6 +71,14 @@
 | allows null elements |  Doesn't allows null elements  |
 | More memory due to overhead storing of references   | Memory Efficient |
 </p>
+
+
+
+**Greedy Algorithm:** <p> Locally optimium choices at each stage  and hope to achieve a global optimum.<br>
+            <br> 1) Used for Optimization <br> 2) No fixed rule <br> 3) Sorting first <br> 
+            Pros:- Simple and easy ,Good Time Complexity <br>
+            Disadvantage:- lots of time global optimum is not achieved  
+</p>
             
             
                
